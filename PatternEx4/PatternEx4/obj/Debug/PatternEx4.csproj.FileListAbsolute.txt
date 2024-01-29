@@ -1,0 +1,8 @@
+D:\ShivamVbPrograms\PatternEx4\PatternEx4\bin\Debug\PatternEx4.exe.config
+D:\ShivamVbPrograms\PatternEx4\PatternEx4\bin\Debug\PatternEx4.exe
+D:\ShivamVbPrograms\PatternEx4\PatternEx4\bin\Debug\PatternEx4.pdb
+D:\ShivamVbPrograms\PatternEx4\PatternEx4\obj\Debug\PatternEx4.csproj.AssemblyReference.cache
+D:\ShivamVbPrograms\PatternEx4\PatternEx4\obj\Debug\PatternEx4.csproj.SuggestedBindingRedirects.cache
+D:\ShivamVbPrograms\PatternEx4\PatternEx4\obj\Debug\PatternEx4.csproj.CoreCompileInputs.cache
+D:\ShivamVbPrograms\PatternEx4\PatternEx4\obj\Debug\PatternEx4.exe
+D:\ShivamVbPrograms\PatternEx4\PatternEx4\obj\Debug\PatternEx4.pdb

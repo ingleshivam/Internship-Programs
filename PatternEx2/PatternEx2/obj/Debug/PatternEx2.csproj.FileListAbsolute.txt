@@ -1,0 +1,8 @@
+D:\ShivamVbPrograms\PatternEx2\PatternEx2\bin\Debug\PatternEx2.exe.config
+D:\ShivamVbPrograms\PatternEx2\PatternEx2\bin\Debug\PatternEx2.exe
+D:\ShivamVbPrograms\PatternEx2\PatternEx2\bin\Debug\PatternEx2.pdb
+D:\ShivamVbPrograms\PatternEx2\PatternEx2\obj\Debug\PatternEx2.csproj.AssemblyReference.cache
+D:\ShivamVbPrograms\PatternEx2\PatternEx2\obj\Debug\PatternEx2.csproj.SuggestedBindingRedirects.cache
+D:\ShivamVbPrograms\PatternEx2\PatternEx2\obj\Debug\PatternEx2.csproj.CoreCompileInputs.cache
+D:\ShivamVbPrograms\PatternEx2\PatternEx2\obj\Debug\PatternEx2.exe
+D:\ShivamVbPrograms\PatternEx2\PatternEx2\obj\Debug\PatternEx2.pdb
