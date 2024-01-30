@@ -1,0 +1,8 @@
+D:\ShivamVbPrograms\StaticDataMember\StaticDataMember\bin\Debug\StaticDataMember.exe.config
+D:\ShivamVbPrograms\StaticDataMember\StaticDataMember\bin\Debug\StaticDataMember.exe
+D:\ShivamVbPrograms\StaticDataMember\StaticDataMember\bin\Debug\StaticDataMember.pdb
+D:\ShivamVbPrograms\StaticDataMember\StaticDataMember\obj\Debug\StaticDataMember.csproj.AssemblyReference.cache
+D:\ShivamVbPrograms\StaticDataMember\StaticDataMember\obj\Debug\StaticDataMember.csproj.SuggestedBindingRedirects.cache
+D:\ShivamVbPrograms\StaticDataMember\StaticDataMember\obj\Debug\StaticDataMember.csproj.CoreCompileInputs.cache
+D:\ShivamVbPrograms\StaticDataMember\StaticDataMember\obj\Debug\StaticDataMember.exe
+D:\ShivamVbPrograms\StaticDataMember\StaticDataMember\obj\Debug\StaticDataMember.pdb

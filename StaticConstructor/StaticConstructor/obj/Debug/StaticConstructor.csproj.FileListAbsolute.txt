@@ -1,0 +1,8 @@
+D:\ShivamVbPrograms\StaticConstructor\StaticConstructor\bin\Debug\StaticConstructor.exe.config
+D:\ShivamVbPrograms\StaticConstructor\StaticConstructor\bin\Debug\StaticConstructor.exe
+D:\ShivamVbPrograms\StaticConstructor\StaticConstructor\bin\Debug\StaticConstructor.pdb
+D:\ShivamVbPrograms\StaticConstructor\StaticConstructor\obj\Debug\StaticConstructor.csproj.AssemblyReference.cache
+D:\ShivamVbPrograms\StaticConstructor\StaticConstructor\obj\Debug\StaticConstructor.csproj.SuggestedBindingRedirects.cache
+D:\ShivamVbPrograms\StaticConstructor\StaticConstructor\obj\Debug\StaticConstructor.csproj.CoreCompileInputs.cache
+D:\ShivamVbPrograms\StaticConstructor\StaticConstructor\obj\Debug\StaticConstructor.exe
+D:\ShivamVbPrograms\StaticConstructor\StaticConstructor\obj\Debug\StaticConstructor.pdb
