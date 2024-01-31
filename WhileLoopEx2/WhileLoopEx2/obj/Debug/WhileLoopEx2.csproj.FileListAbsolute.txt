@@ -1,0 +1,8 @@
+D:\pallavi\WhileLoopEx2\WhileLoopEx2\bin\Debug\WhileLoopEx2.exe.config
+D:\pallavi\WhileLoopEx2\WhileLoopEx2\bin\Debug\WhileLoopEx2.exe
+D:\pallavi\WhileLoopEx2\WhileLoopEx2\bin\Debug\WhileLoopEx2.pdb
+D:\pallavi\WhileLoopEx2\WhileLoopEx2\obj\Debug\WhileLoopEx2.csproj.AssemblyReference.cache
+D:\pallavi\WhileLoopEx2\WhileLoopEx2\obj\Debug\WhileLoopEx2.csproj.SuggestedBindingRedirects.cache
+D:\pallavi\WhileLoopEx2\WhileLoopEx2\obj\Debug\WhileLoopEx2.csproj.CoreCompileInputs.cache
+D:\pallavi\WhileLoopEx2\WhileLoopEx2\obj\Debug\WhileLoopEx2.exe
+D:\pallavi\WhileLoopEx2\WhileLoopEx2\obj\Debug\WhileLoopEx2.pdb

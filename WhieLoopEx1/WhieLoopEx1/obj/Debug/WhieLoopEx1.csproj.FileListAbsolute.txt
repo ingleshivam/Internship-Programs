@@ -1,0 +1,8 @@
+D:\pallavi\WhieLoopEx1\WhieLoopEx1\bin\Debug\WhieLoopEx1.exe.config
+D:\pallavi\WhieLoopEx1\WhieLoopEx1\bin\Debug\WhieLoopEx1.exe
+D:\pallavi\WhieLoopEx1\WhieLoopEx1\bin\Debug\WhieLoopEx1.pdb
+D:\pallavi\WhieLoopEx1\WhieLoopEx1\obj\Debug\WhieLoopEx1.csproj.AssemblyReference.cache
+D:\pallavi\WhieLoopEx1\WhieLoopEx1\obj\Debug\WhieLoopEx1.csproj.SuggestedBindingRedirects.cache
+D:\pallavi\WhieLoopEx1\WhieLoopEx1\obj\Debug\WhieLoopEx1.csproj.CoreCompileInputs.cache
+D:\pallavi\WhieLoopEx1\WhieLoopEx1\obj\Debug\WhieLoopEx1.exe
+D:\pallavi\WhieLoopEx1\WhieLoopEx1\obj\Debug\WhieLoopEx1.pdb
