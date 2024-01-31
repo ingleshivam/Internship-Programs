@@ -1,0 +1,8 @@
+D:\Shivam\CalculateSquare\CalculateSquare\bin\Debug\CalculateSquare.exe.config
+D:\Shivam\CalculateSquare\CalculateSquare\bin\Debug\CalculateSquare.exe
+D:\Shivam\CalculateSquare\CalculateSquare\bin\Debug\CalculateSquare.pdb
+D:\Shivam\CalculateSquare\CalculateSquare\obj\Debug\CalculateSquare.csproj.AssemblyReference.cache
+D:\Shivam\CalculateSquare\CalculateSquare\obj\Debug\CalculateSquare.csproj.SuggestedBindingRedirects.cache
+D:\Shivam\CalculateSquare\CalculateSquare\obj\Debug\CalculateSquare.csproj.CoreCompileInputs.cache
+D:\Shivam\CalculateSquare\CalculateSquare\obj\Debug\CalculateSquare.exe
+D:\Shivam\CalculateSquare\CalculateSquare\obj\Debug\CalculateSquare.pdb

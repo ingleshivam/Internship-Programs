@@ -1,0 +1,8 @@
+D:\Shivam\CalculateCube\CalculateCube\bin\Debug\CalculateCube.exe.config
+D:\Shivam\CalculateCube\CalculateCube\bin\Debug\CalculateCube.exe
+D:\Shivam\CalculateCube\CalculateCube\bin\Debug\CalculateCube.pdb
+D:\Shivam\CalculateCube\CalculateCube\obj\Debug\CalculateCube.csproj.AssemblyReference.cache
+D:\Shivam\CalculateCube\CalculateCube\obj\Debug\CalculateCube.csproj.SuggestedBindingRedirects.cache
+D:\Shivam\CalculateCube\CalculateCube\obj\Debug\CalculateCube.csproj.CoreCompileInputs.cache
+D:\Shivam\CalculateCube\CalculateCube\obj\Debug\CalculateCube.exe
+D:\Shivam\CalculateCube\CalculateCube\obj\Debug\CalculateCube.pdb

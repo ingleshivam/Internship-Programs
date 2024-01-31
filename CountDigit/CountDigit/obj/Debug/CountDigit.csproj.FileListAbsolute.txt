@@ -1,0 +1,8 @@
+D:\Shivam\CountDigit\CountDigit\bin\Debug\CountDigit.exe.config
+D:\Shivam\CountDigit\CountDigit\bin\Debug\CountDigit.exe
+D:\Shivam\CountDigit\CountDigit\bin\Debug\CountDigit.pdb
+D:\Shivam\CountDigit\CountDigit\obj\Debug\CountDigit.csproj.AssemblyReference.cache
+D:\Shivam\CountDigit\CountDigit\obj\Debug\CountDigit.csproj.SuggestedBindingRedirects.cache
+D:\Shivam\CountDigit\CountDigit\obj\Debug\CountDigit.csproj.CoreCompileInputs.cache
+D:\Shivam\CountDigit\CountDigit\obj\Debug\CountDigit.exe
+D:\Shivam\CountDigit\CountDigit\obj\Debug\CountDigit.pdb

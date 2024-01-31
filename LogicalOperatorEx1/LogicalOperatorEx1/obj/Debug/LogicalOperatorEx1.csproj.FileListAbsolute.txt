@@ -1,0 +1,8 @@
+D:\Shivam\LogicalOperatorEx1\LogicalOperatorEx1\bin\Debug\LogicalOperatorEx1.exe.config
+D:\Shivam\LogicalOperatorEx1\LogicalOperatorEx1\bin\Debug\LogicalOperatorEx1.exe
+D:\Shivam\LogicalOperatorEx1\LogicalOperatorEx1\bin\Debug\LogicalOperatorEx1.pdb
+D:\Shivam\LogicalOperatorEx1\LogicalOperatorEx1\obj\Debug\LogicalOperatorEx1.csproj.AssemblyReference.cache
+D:\Shivam\LogicalOperatorEx1\LogicalOperatorEx1\obj\Debug\LogicalOperatorEx1.csproj.SuggestedBindingRedirects.cache
+D:\Shivam\LogicalOperatorEx1\LogicalOperatorEx1\obj\Debug\LogicalOperatorEx1.csproj.CoreCompileInputs.cache
+D:\Shivam\LogicalOperatorEx1\LogicalOperatorEx1\obj\Debug\LogicalOperatorEx1.exe
+D:\Shivam\LogicalOperatorEx1\LogicalOperatorEx1\obj\Debug\LogicalOperatorEx1.pdb
