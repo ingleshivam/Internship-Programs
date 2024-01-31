@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{43831B71-9379-4047-A03A-A15B2DDAF456}</ProjectGuid>
+    <ProjectGuid>{C6AD27B3-6340-4232-AAFD-C9BF1D014CD4}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>MethodOverloadingEx3</RootNamespace>
     <AssemblyName>MethodOverloadingEx3</AssemblyName>
-    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>

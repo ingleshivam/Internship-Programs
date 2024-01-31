@@ -1,6 +1,8 @@
-﻿using System;
+﻿using MethodOverloadingEx2;
+using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -8,17 +10,19 @@ namespace MethodOverloadingEx2
 {
     class Shape
     {
-        public double calculateArea(double r)
+        public void area(int radius)
         {
             double pie = 3.14;
-            double calculateAreaOfCircle = pie * r * r;
-            return calculateAreaOfCircle;
+            double caluculateAreaOfCircle = 2 * pie * radius * radius;
+            Console.WriteLine("\n\t\tArea of Circle is :" + caluculateAreaOfCircle);
         }
 
-        public int calculateArea(int l, int b)
+        public void area(int length, int breadth)
         {
-            int calculateAreaOfRectangle = l * b;
-            return calculateAreaOfRectangle;
+            int calculateAreaOfRectangle = length * breadth;
+            Console.WriteLine("\n\t\tArea of Rectangle :" + calculateAreaOfRectangle+"\n");
+            Console.Write("##################################################\n\n");
+
         }
     }
     internal class Program
@@ -26,19 +30,19 @@ namespace MethodOverloadingEx2
         static void Main(string[] args)
         {
             Shape s = new Shape();
-            Console.Write("######### Calculate Area of Circle #########");
-            Console.Write("\nEnter radius :");
-            double radius = Convert.ToDouble(Console.ReadLine());
-            double areaOfCircleResult = s.calculateArea(radius);
-            Console.WriteLine("\nArea of Circle : " + areaOfCircleResult);
+            Console.WriteLine("############# Calculate Area of Circle #############\n");
+            Console.Write("\t\tEnter Radius : ");
+            int r = Convert.ToInt32(Console.ReadLine());
 
-            Console.Write("\n######### Calculate Area Of Rectangle #########");
-            Console.Write("\nEnter Length :");
-            int length = Convert.ToInt32(Console.ReadLine());
-            Console.Write("Enter Breadth :");
-            int breadth = Convert.ToInt32(Console.ReadLine());
-            int areaOfRectangleResult = s.calculateArea(length,breadth);
-            Console.WriteLine("\nArea of Rectangle : " + areaOfRectangleResult+"\n");
+            s.area(r);
+
+            Console.WriteLine("\n########### Calculate Area of Rectangle ###########\n");
+            Console.Write("\t\tEnter Length : ");
+            int l = Convert.ToInt32(Console.ReadLine());
+            Console.Write("\t\tEnter Breadth : ");
+            int b = Convert.ToInt32(Console.ReadLine());
+
+            s.area(l,b);
         }
     }
 }

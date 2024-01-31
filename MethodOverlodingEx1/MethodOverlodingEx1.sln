@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOverloadingEx3", "MethodOverloadingEx3\MethodOverloadingEx3.csproj", "{C6AD27B3-6340-4232-AAFD-C9BF1D014CD4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOverlodingEx1", "MethodOverlodingEx1\MethodOverlodingEx1.csproj", "{FAA5A439-89B0-4911-955C-270C2BC27C98}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C6AD27B3-6340-4232-AAFD-C9BF1D014CD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C6AD27B3-6340-4232-AAFD-C9BF1D014CD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C6AD27B3-6340-4232-AAFD-C9BF1D014CD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C6AD27B3-6340-4232-AAFD-C9BF1D014CD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAA5A439-89B0-4911-955C-270C2BC27C98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAA5A439-89B0-4911-955C-270C2BC27C98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAA5A439-89B0-4911-955C-270C2BC27C98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAA5A439-89B0-4911-955C-270C2BC27C98}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {6035111A-E1F7-4E6F-A4B0-3DC826BEC32D}
+		SolutionGuid = {5502A29C-BA63-40B7-AC17-BE9CE389D809}
 	EndGlobalSection
 EndGlobal

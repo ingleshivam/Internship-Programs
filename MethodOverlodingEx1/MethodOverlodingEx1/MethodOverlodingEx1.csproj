@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1FBD691D-2928-4CA3-8056-0E5A074440BE}</ProjectGuid>
+    <ProjectGuid>{FAA5A439-89B0-4911-955C-270C2BC27C98}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>MethodOverloadingEx2</RootNamespace>
-    <AssemblyName>MethodOverloadingEx2</AssemblyName>
+    <RootNamespace>MethodOverlodingEx1</RootNamespace>
+    <AssemblyName>MethodOverlodingEx1</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("MethodOverloadingEx3")]
+[assembly: AssemblyTitle("MethodOverlodingEx1")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("MethodOverloadingEx3")]
+[assembly: AssemblyProduct("MethodOverlodingEx1")]
 [assembly: AssemblyCopyright("Copyright ©  2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("c6ad27b3-6340-4232-aafd-c9bf1d014cd4")]
+[assembly: Guid("faa5a439-89b0-4911-955c-270c2bc27c98")]
 
 // Version information for an assembly consists of the following four values:
 //
