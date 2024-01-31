@@ -1,0 +1,27 @@
+<html>
+<head>
+<title>
+JsFunctionEx2
+</title>
+</head>
+<body>
+<script>
+	var count =0;
+	var findPrimeOrNot = function(number){
+		for(var i=1;i<=number;i++){
+			if(number % i==0){
+				count++;
+			}
+		}	
+		if(count==2){
+			alert("True");
+		}else{
+			alert("False");
+		}
+	}
+
+	findPrimeOrNot(11);
+	
+</script>
+</body>
+</html>

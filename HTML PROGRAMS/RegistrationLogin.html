@@ -1,0 +1,115 @@
+<html>
+<head>
+<title>
+RegistrationLogin
+</title>
+<style>
+	table{
+		border:1px solid black;
+		margin-left:auto;
+		margin-right:auto;
+		width:40%;
+	}
+
+	input[type="text"],input[type="date"],input[type="password"],input[type="submit"]{
+		border : 1px solid black;
+	}
+		
+	input[type="text"],input[type="date"], input[type="password"]{
+		width:100%;
+		padding:7px;
+		margin-top : 5px;
+	}
+
+	input[type="radio"]{
+		width : 14%;
+		margin-top:5px;	
+	}
+
+	input[type="submit"]{
+		width:100%;
+		padding:7px;
+		cursor:pointer;	
+	}
+		
+	h2{
+		margin-top:20px;
+		font-weight:200;
+	}
+	
+</style>
+</head>
+<body>
+	<center><h2>STUDENT REGISTRATION FORM</h2></center>
+	<form action="" method="GET">	
+		<table border="0" cellpadding="10">
+			<tr>	
+				<td>
+					First Name<br>
+					<input type="text" name="fname"/>
+				</td>
+
+				<td>
+					Last Name<br>
+					<input type="text" name="lname"/>
+				</td>
+			</tr>
+
+			<tr>
+				<td>
+					Username<br>
+					<input type="text" name="username"/>
+				</td>
+			
+				<td>		
+					Password<br>
+					<input type="password" name="password"/>
+				</td>
+			</tr>
+
+			<tr>
+				<td>
+					Mobile Number<br>	
+					<input type="text" name="mob"/>
+				</td>
+
+				<td>
+					PRN Number<br>
+					<input type="text" name="prn"/>
+				</td>
+			</tr>
+	
+			<tr>
+				<td>
+					Gender<br>
+					<input type="radio" name="gender">Male
+					<input type="radio" name="gender">Female
+				</td>
+
+				<td>
+					DOB (Date of Birth)<br>
+					<input type="date" name="date"/>
+				</td>
+			</tr>
+
+			<tr>
+				<td>		
+					City<br>
+					<input type="text" name="city"/>
+				</td>
+
+				<td>
+					State<br>
+					<input type="text" name="state"/>
+				</td>
+			</tr>
+
+			<tr>
+				<td colspan="2">
+					<input type="submit" type="submit" value="Submit"/>
+				</td>
+			</tr>
+		</table>
+	</form>
+</body>
+</html>

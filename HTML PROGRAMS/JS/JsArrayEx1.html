@@ -7,24 +7,16 @@ JsArrayEx1
 <body>
 <script>
 	var arr = new Array(10);
-	
+	var max;
 	for(var i=0;i<10;i++){
-		arr[i] = parseInt(prompt("Enter Number : "));
-	}
-
-	var max = arr[0];
-	for(var i=1;i<10;i++){
+		arr[i]= parseInt(prompt("Enter Number :"));
+		max = arr[0];
 		if(max < arr[i]){
 			max = arr[i];
-		}		
+		}
 	}
 
-	alert("Maximum Number is : "+max);
-
+	alert("Maximum Number is :"+max);
 </script>
-
 </body>
 </html>
-
-
-

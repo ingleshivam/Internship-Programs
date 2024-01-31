@@ -1,0 +1,27 @@
+<html>
+<head>
+<title>
+JsEx2
+</title>
+</head>
+<body>
+<script>
+	//Find prime or not.
+	var num = parseInt(prompt("Enter  a number :"));
+	var i=0;
+	var count =0;
+	while(i<=num){
+		if(num%i==0){
+			count++;
+		}
+		i=i+1;
+	}
+	
+	if(count==2){
+		alert("Prime Number");
+	}else{
+		alert("Not a Prime Number");
+	}
+</script>
+</body>
+</html>

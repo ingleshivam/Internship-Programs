@@ -1,0 +1,60 @@
+<html>
+<head>
+<title>
+JsDOM
+</title>
+<style>
+	input{
+		padding:5px;
+		margin-top:10px;
+		margin-bottom:10px;
+		width:100%;
+		border:1px solid black;
+		cursor:pointer;
+	}
+
+	.main{
+		width:15%;
+		margin-left:auto;
+		margin-right:auto;
+		padding:20px;
+		border : 1px solid black;
+	}
+
+</style>
+</head>
+<body>
+<div class="main">
+	<form action="#"method="post">
+		Enter First No.<br>
+		<input type="text" id="firstNumber" required/>
+		<br>
+		Enter Second No.<br>
+		<input type="text" id="secondNumber"required/>
+		<br>
+		Result
+		<br>
+		<input type="text" id="result"/>
+		<br>
+		<input type="button" onclick="Add()" value="Addition"/><br>
+		<input type="button"  onclick="Sub()" value="Substraction"/>
+		<input type="reset" value="Clear"/>
+	</form>
+</div>
+<script>
+	function Add(){
+		var a = parseInt(document.getElementById('firstNumber').value);
+		var b = parseInt(document.getElementById('secondNumber').value);
+		var c = (a+b);
+		document.getElementById('result').value=c;
+	}
+
+	function Sub(){
+		var a = parseInt(document.getElementById('firstNumber').value);
+		var b = parseInt(document.getElementById('secondNumber').value);
+		var c = (a-b);
+		document.getElementById('result').value=c;
+	}
+</script>
+</body>
+</html>

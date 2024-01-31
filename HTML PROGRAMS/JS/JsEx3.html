@@ -1,0 +1,30 @@
+<html>
+<head>
+<title>
+JsEX3
+</title>
+</head>
+<body>
+	<script>
+		var physics = parseInt(prompt("Enter marks for physics :"));
+		var chemistry = parseInt(prompt("Enter marks for chemistry :"));
+		var bio = parseInt(prompt("Enter marks for bio :"));
+		var math = parseInt(prompt("Enter marks for math :"));
+		
+		var total = physics + chemistry + bio + math;
+		var percentage = (total/4);
+
+		if(percentage >= 70){
+			alert("Class : Distinction");
+		}else if(percentage >=60){
+			alert("Class : First");
+		}else if(percentage >= 50){
+			alert("Class : Second");
+		}else if(percentage >= 40){
+			alert("Class : Pass");
+		}else{
+			alert("Fail");
+		}
+	</script>	
+</body>
+</html>
