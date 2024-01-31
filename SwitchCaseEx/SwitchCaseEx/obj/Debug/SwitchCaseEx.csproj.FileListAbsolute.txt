@@ -1,0 +1,8 @@
+D:\Shivam\SwitchCaseEx\SwitchCaseEx\bin\Debug\SwitchCaseEx.exe.config
+D:\Shivam\SwitchCaseEx\SwitchCaseEx\bin\Debug\SwitchCaseEx.exe
+D:\Shivam\SwitchCaseEx\SwitchCaseEx\bin\Debug\SwitchCaseEx.pdb
+D:\Shivam\SwitchCaseEx\SwitchCaseEx\obj\Debug\SwitchCaseEx.csproj.AssemblyReference.cache
+D:\Shivam\SwitchCaseEx\SwitchCaseEx\obj\Debug\SwitchCaseEx.csproj.SuggestedBindingRedirects.cache
+D:\Shivam\SwitchCaseEx\SwitchCaseEx\obj\Debug\SwitchCaseEx.csproj.CoreCompileInputs.cache
+D:\Shivam\SwitchCaseEx\SwitchCaseEx\obj\Debug\SwitchCaseEx.exe
+D:\Shivam\SwitchCaseEx\SwitchCaseEx\obj\Debug\SwitchCaseEx.pdb
