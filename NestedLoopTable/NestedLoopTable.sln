@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NestedLoopTable", "NestedLoopTable\NestedLoopTable.csproj", "{31E6A2DB-C3EE-43AB-A97F-695A6FC5E88F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31E6A2DB-C3EE-43AB-A97F-695A6FC5E88F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31E6A2DB-C3EE-43AB-A97F-695A6FC5E88F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31E6A2DB-C3EE-43AB-A97F-695A6FC5E88F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31E6A2DB-C3EE-43AB-A97F-695A6FC5E88F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A1982B5-711B-442E-889E-77F8265B7F8F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+D:\pallavi\Dotnet Core\NestedLoopTable\NestedLoopTable\bin\Debug\NestedLoopTable.exe.config
+D:\pallavi\Dotnet Core\NestedLoopTable\NestedLoopTable\bin\Debug\NestedLoopTable.exe
+D:\pallavi\Dotnet Core\NestedLoopTable\NestedLoopTable\bin\Debug\NestedLoopTable.pdb
+D:\pallavi\Dotnet Core\NestedLoopTable\NestedLoopTable\obj\Debug\NestedLoopTable.csproj.AssemblyReference.cache
+D:\pallavi\Dotnet Core\NestedLoopTable\NestedLoopTable\obj\Debug\NestedLoopTable.csproj.SuggestedBindingRedirects.cache
+D:\pallavi\Dotnet Core\NestedLoopTable\NestedLoopTable\obj\Debug\NestedLoopTable.csproj.CoreCompileInputs.cache
+D:\pallavi\Dotnet Core\NestedLoopTable\NestedLoopTable\obj\Debug\NestedLoopTable.exe
+D:\pallavi\Dotnet Core\NestedLoopTable\NestedLoopTable\obj\Debug\NestedLoopTable.pdb

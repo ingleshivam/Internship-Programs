@@ -1,0 +1,16 @@
+D:\pallavi\Dotnet Core\NestedLoopEx1\NestedLoopEx1\bin\Debug\NestedLoopEx1.exe.config
+D:\pallavi\Dotnet Core\NestedLoopEx1\NestedLoopEx1\bin\Debug\NestedLoopEx1.exe
+D:\pallavi\Dotnet Core\NestedLoopEx1\NestedLoopEx1\bin\Debug\NestedLoopEx1.pdb
+D:\pallavi\Dotnet Core\NestedLoopEx1\NestedLoopEx1\obj\Debug\NestedLoopEx1.csproj.AssemblyReference.cache
+D:\pallavi\Dotnet Core\NestedLoopEx1\NestedLoopEx1\obj\Debug\NestedLoopEx1.csproj.SuggestedBindingRedirects.cache
+D:\pallavi\Dotnet Core\NestedLoopEx1\NestedLoopEx1\obj\Debug\NestedLoopEx1.csproj.CoreCompileInputs.cache
+D:\pallavi\Dotnet Core\NestedLoopEx1\NestedLoopEx1\obj\Debug\NestedLoopEx1.exe
+D:\pallavi\Dotnet Core\NestedLoopEx1\NestedLoopEx1\obj\Debug\NestedLoopEx1.pdb
+D:\Shivam\NestedLoopEx1\NestedLoopEx1\bin\Debug\NestedLoopEx1.exe.config
+D:\Shivam\NestedLoopEx1\NestedLoopEx1\bin\Debug\NestedLoopEx1.exe
+D:\Shivam\NestedLoopEx1\NestedLoopEx1\bin\Debug\NestedLoopEx1.pdb
+D:\Shivam\NestedLoopEx1\NestedLoopEx1\obj\Debug\NestedLoopEx1.csproj.AssemblyReference.cache
+D:\Shivam\NestedLoopEx1\NestedLoopEx1\obj\Debug\NestedLoopEx1.csproj.SuggestedBindingRedirects.cache
+D:\Shivam\NestedLoopEx1\NestedLoopEx1\obj\Debug\NestedLoopEx1.csproj.CoreCompileInputs.cache
+D:\Shivam\NestedLoopEx1\NestedLoopEx1\obj\Debug\NestedLoopEx1.exe
+D:\Shivam\NestedLoopEx1\NestedLoopEx1\obj\Debug\NestedLoopEx1.pdb
