@@ -1,0 +1,8 @@
+D:\Shivam\InheritanceEx\InheritanceEx\bin\Debug\InheritanceEx.exe.config
+D:\Shivam\InheritanceEx\InheritanceEx\bin\Debug\InheritanceEx.exe
+D:\Shivam\InheritanceEx\InheritanceEx\bin\Debug\InheritanceEx.pdb
+D:\Shivam\InheritanceEx\InheritanceEx\obj\Debug\InheritanceEx.csproj.AssemblyReference.cache
+D:\Shivam\InheritanceEx\InheritanceEx\obj\Debug\InheritanceEx.csproj.SuggestedBindingRedirects.cache
+D:\Shivam\InheritanceEx\InheritanceEx\obj\Debug\InheritanceEx.csproj.CoreCompileInputs.cache
+D:\Shivam\InheritanceEx\InheritanceEx\obj\Debug\InheritanceEx.exe
+D:\Shivam\InheritanceEx\InheritanceEx\obj\Debug\InheritanceEx.pdb
