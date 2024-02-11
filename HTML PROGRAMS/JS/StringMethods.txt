@@ -1,0 +1,20 @@
+//String Methods
+
+- length
+- at(position)
+- charAt(position)
+- charCodeAt(position)
+- slice(start,end)
+- substring(start, end)
+- substr(start, length);
+- toUpperCase()
+- toLowerCase()
+- concat()
+- trim()
+- trimStart()
+- trimEnd()
+- padStart()
+- padEnd()
+- repeat(count)
+- replace()
+- replaceAll()
